@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\C-\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Documents\\C-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107F08DB-C7AC-4E81-97CE-02295C359B6C}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62E363C-BA39-41EA-A3FD-A471D5991D1A}|..\\Class2th\\Class2th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +48,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2th.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp",
+              "RelativeDocumentMoniker": "..\\Class2th\\Class2th.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp",
+              "RelativeToolTip": "..\\Class2th\\Class2th.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T11:23:19.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T11:02:49.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\C-\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\C-\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAAF0AAAARAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAIwE0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T11:03:14.104Z",
               "EditorCaption": ""
