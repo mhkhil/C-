@@ -1,7 +1,63 @@
-﻿  Brush.cpp
-  Paint.cpp
-  Pencil.cpp
-  Program.cpp
-  코드를 생성하고 있습니다...
-  LINK : C:\Users\Administrator\Desktop\C_study\C-\Program\x64\Debug\Program.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
-  Program.vcxproj -> C:\Users\Administrator\Desktop\C_study\C-\Program\x64\Debug\Program.exe
+﻿  Program.cpp
+C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,29): error C2676: 이항 '+': 'Vector2'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5034,62):
+  'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)'일 수 있습니다.
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)': 'Vector2'에서 'std::basic_string<_Elem,_Traits,_Alloc> &&'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5028,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *const )': 'Vector2'에서 'std::basic_string<_Elem,_Traits,_Alloc> &&'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5022,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)': 'Vector2'에서 'std::basic_string<_Elem,_Traits,_Alloc> &&'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5016,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,std::basic_string<_Elem,_Traits,_Alloc> &&)': 'Vector2'에서 'const _Elem *const '에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(5003,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)': 'Vector2'에서 'std::basic_string<_Elem,_Traits,_Alloc> &&'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4997,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)': 'Vector2'에서 'std::basic_string<_Elem,_Traits,_Alloc> &&'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4991,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)': 'Vector2'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4980,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': 'Vector2'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4967,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': 'Vector2'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4956,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)': 'Vector2'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4943,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': 'Vector2'에서 'const _Elem *const '에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(4931,62):
+  또는       'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': 'Vector2'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4311,5):
+  또는       'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::move_iterator<_Iter> std::operator +(move_iterator<_Iter>::difference_type,const std::move_iterator<_Iter> &) noexcept(<expr>)': 'Vector2'에서 'const std::move_iterator<_Iter> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1792,50):
+  또는       'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)'
+  	C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,21):
+  	'std::reverse_iterator<_BidIt> std::operator +(reverse_iterator<_BidIt>::difference_type,const std::reverse_iterator<_BidIt> &) noexcept(<expr>)': 'Vector2'에서 'const std::reverse_iterator<_BidIt> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+  
+C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(47,19): error C2512: 'Vector2': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  C:\Users\Administrator\Desktop\C_study\C-\Program\Program.cpp(6,7):
+  'Vector2' 선언을 참조하십시오.
+  

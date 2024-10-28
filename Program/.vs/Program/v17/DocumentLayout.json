@@ -7,10 +7,34 @@
       "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77F77BD-4F54-4D30-9D09-24A77371EEB6}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:KeyBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:KeyBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21CC75ED-FC4A-4B46-B997-E2AC6AC85456}|..\\Class7th\\Class7th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77F77BD-4F54-4D30-9D09-24A77371EEB6}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -35,7 +59,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,6 +88,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Computer.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.cpp",
+              "RelativeDocumentMoniker": "Computer.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.cpp",
+              "RelativeToolTip": "Computer.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T11:38:30.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mouse.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.cpp",
+              "RelativeDocumentMoniker": "Mouse.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.cpp",
+              "RelativeToolTip": "Mouse.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T11:37:08.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyBoard.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.cpp",
+              "RelativeDocumentMoniker": "KeyBoard.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.cpp",
+              "RelativeToolTip": "KeyBoard.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T11:34:36.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyBoard.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.h",
+              "RelativeDocumentMoniker": "KeyBoard.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.h",
+              "RelativeToolTip": "KeyBoard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T11:10:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mouse.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.h",
+              "RelativeDocumentMoniker": "Mouse.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.h",
+              "RelativeToolTip": "Mouse.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T11:10:16.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Computer.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.h",
+              "RelativeDocumentMoniker": "Computer.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.h",
+              "RelativeToolTip": "Computer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T11:09:57.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class8th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
@@ -82,27 +184,27 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-25T12:16:48.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Class7th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp",
               "RelativeDocumentMoniker": "..\\Class7th\\Class7th.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp",
               "RelativeToolTip": "..\\Class7th\\Class7th.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAIwB8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-25T11:21:57.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Class6th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class6th\\Class6th.cpp",
               "RelativeDocumentMoniker": "..\\Class6th\\Class6th.cpp",
@@ -114,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Class 5th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class 5th\\Class 5th.cpp",
               "RelativeDocumentMoniker": "..\\Class 5th\\Class 5th.cpp",
@@ -126,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
@@ -138,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Class2th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp",
               "RelativeDocumentMoniker": "..\\Class2th\\Class2th.cpp",
@@ -150,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
