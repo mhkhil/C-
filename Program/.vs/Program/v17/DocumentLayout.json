@@ -7,28 +7,10 @@
       "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C8234B99-73E8-4E4B-BA49-D397773778EC}|..\\Class9th (operator Overloading)\\Class9th (operator Overloading).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:KeyBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:KeyBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21CC75ED-FC4A-4B46-B997-E2AC6AC85456}|..\\Class7th\\Class7th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -59,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,78 +70,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Computer.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.cpp",
-              "RelativeDocumentMoniker": "Computer.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.cpp",
-              "RelativeToolTip": "Computer.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Title": "Class9th (operator Overloading).cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
+              "RelativeDocumentMoniker": "..\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
+              "RelativeToolTip": "..\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T11:38:30.792Z"
+              "WhenOpened": "2024-10-30T11:39:43.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Mouse.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.cpp",
-              "RelativeDocumentMoniker": "Mouse.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.cpp",
-              "RelativeToolTip": "Mouse.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T11:37:08.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KeyBoard.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.cpp",
-              "RelativeDocumentMoniker": "KeyBoard.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.cpp",
-              "RelativeToolTip": "KeyBoard.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T11:34:36.629Z"
+              "Title": "debugger_jmc.c",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-30T11:36:37.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "KeyBoard.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.h",
-              "RelativeDocumentMoniker": "KeyBoard.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\KeyBoard.h",
-              "RelativeToolTip": "KeyBoard.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:10:34.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Mouse.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.h",
-              "RelativeDocumentMoniker": "Mouse.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Mouse.h",
-              "RelativeToolTip": "Mouse.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:10:16.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Computer.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.h",
-              "RelativeDocumentMoniker": "Computer.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Computer.h",
-              "RelativeToolTip": "Computer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T11:09:57.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class8th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
@@ -177,14 +113,14 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAywCoAAAAiAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-25T12:16:48.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Class7th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp",
               "RelativeDocumentMoniker": "..\\Class7th\\Class7th.cpp",
@@ -196,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Class6th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class6th\\Class6th.cpp",
               "RelativeDocumentMoniker": "..\\Class6th\\Class6th.cpp",
@@ -208,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Class 5th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class 5th\\Class 5th.cpp",
               "RelativeDocumentMoniker": "..\\Class 5th\\Class 5th.cpp",
@@ -220,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
@@ -232,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "Class2th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp",
               "RelativeDocumentMoniker": "..\\Class2th\\Class2th.cpp",
@@ -244,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
