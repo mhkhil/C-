@@ -2,53 +2,17 @@
 
 using namespace std;
 
-template<typename T>
-class List
-{
-private:
-	int size;
-
-	T* pointer;
-
-	int i = 0;
-
-public:
-	List(int size)
-	{
-		this->size = size;
-		pointer = new T[this->size];
-	}
-
-	void Add(T data)
-	{
-		pointer[i] = data;
-
-		i++;
-
-		if (i > size)
-		{
-			cout << "데이터공간이 없습니다." << endl;
-		}
-	}
-
-	~List()
-	{
-		delete pointer;
-	}
-};
 
 int main()
 {
-#pragma region 템플릿
-	// 데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터
-	// 타입들을 가질 수 있는 기술에 중점을 두어 재사용을 높일 수
-	// 있는 기능입니다.
+#pragma region 스마트 포인터
+	// 포인터를 시뮬레이트하는 동시에 자동으로 메모리 관리를 해주며,
+	// 경계 확인과 같은 추가 기능 제공하는 추상 데이터 포인터 형식입니다.
 
-	List<int> list(5);
+
 
 #pragma endregion
 
 
 	return 0;
 }
-

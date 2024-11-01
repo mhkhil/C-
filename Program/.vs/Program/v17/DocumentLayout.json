@@ -7,31 +7,7 @@
       "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8234B99-73E8-4E4B-BA49-D397773778EC}|..\\Class9th (operator Overloading)\\Class9th (operator Overloading).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CC75ED-FC4A-4B46-B997-E2AC6AC85456}|..\\Class7th\\Class7th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F77F77BD-4F54-4D30-9D09-24A77371EEB6}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62F2846A-F178-415A-A268-1F1A6CA0B35A}|..\\Class6th\\Class6th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class6th\\Class6th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F7503DA-DAEF-44B6-95FB-EB75ABFD3BB9}|..\\Class 5th\\Class 5th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class 5th\\Class 5th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{107F08DB-C7AC-4E81-97CE-02295C359B6C}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D62E363C-BA39-41EA-A3FD-A471D5991D1A}|..\\Class2th\\Class2th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D9D43135-C565-4E81-8844-3AC95572CD68}|..\\Class10th\\Class10th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class10th\\Class10th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class10th.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class10th\\Class10th.cpp",
+              "RelativeDocumentMoniker": "..\\Class10th\\Class10th.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class10th\\Class10th.cpp",
+              "RelativeToolTip": "..\\Class10th\\Class10th.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T12:27:54.496Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -69,126 +58,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class9th (operator Overloading).cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
-              "RelativeDocumentMoniker": "..\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
-              "RelativeToolTip": "..\\Class9th (operator Overloading)\\Class9th (operator Overloading).cpp",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-30T11:39:43.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "debugger_jmc.c",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\debugger_jmc.c",
-              "ViewState": "AQIAAAsAAAAAAAAAAAApwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-30T11:36:37.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class8th (Abstract)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class8th (Abstract)\\Source.cpp",
-              "RelativeToolTip": "..\\Class8th (Abstract)\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-25T12:35:43.561Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-25T12:16:48.329Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class7th.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp",
-              "RelativeDocumentMoniker": "..\\Class7th\\Class7th.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class7th\\Class7th.cpp",
-              "RelativeToolTip": "..\\Class7th\\Class7th.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-25T11:21:57.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class6th.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class6th\\Class6th.cpp",
-              "RelativeDocumentMoniker": "..\\Class6th\\Class6th.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class6th\\Class6th.cpp",
-              "RelativeToolTip": "..\\Class6th\\Class6th.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-23T11:13:14.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class 5th.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class 5th\\Class 5th.cpp",
-              "RelativeDocumentMoniker": "..\\Class 5th\\Class 5th.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class 5th\\Class 5th.cpp",
-              "RelativeToolTip": "..\\Class 5th\\Class 5th.cpp",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAIwGQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-22T11:03:15.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "delete_scalar.cpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ViewState": "AQIAABoAAAAAAAAAAAAWwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-18T12:11:08.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class2th.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp",
-              "RelativeDocumentMoniker": "..\\Class2th\\Class2th.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class2th\\Class2th.cpp",
-              "RelativeToolTip": "..\\Class2th\\Class2th.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T11:23:19.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class1th (Stream)\\Source.cpp",
-              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
-              "ViewState": "AQIAACEAAAAAAAAAAAAIwGQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T11:02:49.755Z"
             }
           ]
         }
