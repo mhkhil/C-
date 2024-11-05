@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{35E0FD4A-389B-4677-B660-14F54CC1FC74}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{544327E0-425E-41E8-A7BF-1CD6CC76D3D5}|..\\Class12th (Thread)\\Class12th (Thread).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class12th (Thread)\\Class12th (Thread).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99B1CE5-DAF9-4F4D-AFA3-DD57F3E5F839}|..\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9D43135-C565-4E81-8844-3AC95572CD68}|..\\Class10th\\Class10th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class10th\\Class10th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +52,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Class12th (Thread).cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "RelativeToolTip": "..\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T11:35:38.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class11th (Smart Pointer).cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).cpp",
+              "RelativeToolTip": "..\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T11:04:11.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class10th.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Class10th\\Class10th.cpp",
               "RelativeDocumentMoniker": "..\\Class10th\\Class10th.cpp",
@@ -53,8 +85,7 @@
               "RelativeToolTip": "..\\Class10th\\Class10th.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T12:27:54.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T12:27:54.496Z"
             },
             {
               "$type": "Document",
@@ -64,7 +95,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\C-\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAAFsAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-25T12:16:48.329Z",
               "EditorCaption": ""
